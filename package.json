@@ -1,0 +1,25 @@
+{
+  "name": "sweet-crud",
+  "version": "0.0.3",
+  "description": "A framework and starter for CRUD applications with possibility of tying hooks (event-driven) and more...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demonarch/sweet-crud.git"
+  },
+  "keywords": [
+    "crud",
+    "database",
+    "orm",
+    "super"
+  ],
+  "author": "demonarch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demonarch/sweet-crud/issues"
+  },
+  "homepage": "https://github.com/demonarch/sweet-crud#readme"
+}
